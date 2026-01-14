@@ -103,7 +103,7 @@ class _IDCardScreenState extends State<IDCardScreen> {
           mainAxisSize: MainAxisSize.min,
           children: [
             // Logo
-            Image.asset("images/cr_logo.png", width: 200),
+            Image.asset("images/dd_logo.jpg", width: 100),
             const SizedBox(height: 10),
 
             // User Image

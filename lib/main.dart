@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'CredSep25',
+      title: 'DEBT COLLECTION',
       theme: ThemeData(primarySwatch: Colors.blue),
       routes: {
         '/home': (_) => HomeScreen(),
